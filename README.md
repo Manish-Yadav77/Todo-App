@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Manish-Yadav77/Currency_Convertor/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">This React application is a user-friendly currency converter that allows users to instantly convert amounts between various international currencies using live exchange rates fetched from an external API. It features intuitive input fields for selecting source and target currencies, real-time updates based on market fluctuations, and a clear display of the converted amount, making it a convenient tool for travelers and anyone needing to calculate cross-currency values.</p>
+<p id="description">The To-Do List App is a simple yet elegant task management application built using React.js. This project allows users to efficiently organize their daily activities and boost productivity by keeping track of tasks.</p>
 
 
 <h2>🚀 Demo</h2>
@@ -15,9 +15,13 @@
 
 Here're some of the project's best features:
 
-*   Convert to any currency
-*   Real-time exchange rates
-*   Automatic currency switching
+*   Add Tasks: Users can effortlessly add new tasks with a simple form.
+*   Mark as Completed: Check off tasks as they are completed to stay on track.
+*   Delete Tasks: Easily remove tasks that are no longer needed.
+*   Responsive Design: Fully optimized for both mobile and desktop views.
+*   Dynamic State Management: Built with React Hooks for efficient and real-time UI updates.
+*   Stylish UI: A clean and intuitive interface for a seamless user experience.
+
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -51,10 +55,9 @@ npm run dev
 
 Technologies used in the project:
 
-*   Vite + React
-*   node
+*   React.js
+*   JavaScript(ES6+)
 *   Tailwind css
-*   js (javaScript)
 
 <h2>💖Like my work?</h2>
 
